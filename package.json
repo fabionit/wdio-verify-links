@@ -6,16 +6,7 @@
   "scripts": {
     "test": "wdio"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/klamping/trywebdriverio.git"
-  },
-  "author": "Kevin Lamping",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/klamping/trywebdriverio/issues"
-  },
-  "homepage": "https://github.com/klamping/trywebdriverio#readme",
+
   "dependencies": {
     "chai": "^4.1.2",
     "chai-webdriverio": "^0.4.2",
